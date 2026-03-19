@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spiderman/static/css/main.97ed2b49.css",
-    "main.js": "/spiderman/static/js/main.25c63cf7.js",
+    "main.js": "/spiderman/static/js/main.f368e2dd.js",
     "static/media/spiderman-bg.png": "/spiderman/static/media/spiderman-bg.d79095892c0c86938ff5.png",
     "index.html": "/spiderman/index.html",
     "main.97ed2b49.css.map": "/spiderman/static/css/main.97ed2b49.css.map",
-    "main.25c63cf7.js.map": "/spiderman/static/js/main.25c63cf7.js.map"
+    "main.f368e2dd.js.map": "/spiderman/static/js/main.f368e2dd.js.map"
   },
   "entrypoints": [
     "static/css/main.97ed2b49.css",
-    "static/js/main.25c63cf7.js"
+    "static/js/main.f368e2dd.js"
   ]
 }
